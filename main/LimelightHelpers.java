@@ -1,6 +1,6 @@
 // LimelightHelpers v1.2.1 (March 1, 2023)
 
-package frc.robot.utilities;
+package frc.robot.common;
 
 import com.ctre.phoenix6.mechanisms.swerve.SwerveDrivetrain.SwerveDriveState;
 import com.fasterxml.jackson.annotation.JsonFormat;
